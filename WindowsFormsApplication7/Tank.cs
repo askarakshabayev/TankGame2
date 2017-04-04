@@ -11,6 +11,7 @@ namespace WindowsFormsApplication7
     class Tank
     {
         public int x, y, len, w, h, r;
+        public int x1, y1, x2, y2;
         public enum Direction
         {
             UP,
@@ -22,7 +23,8 @@ namespace WindowsFormsApplication7
 
         public void Up(Graphics g)
         {
-            g.DrawEllipse(new Pen(Color.Red), 10, 10, 100, 100);
+            g.DrawEllipse(new Pen(Color.Red), x1, y1, x2, y2);
+
         }
 
         public void Down(Graphics g) {
