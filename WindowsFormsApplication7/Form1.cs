@@ -26,6 +26,7 @@ namespace WindowsFormsApplication7
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             tank.Up(e.Graphics);
+            tank.Left(e.Graphics);
         }
 
     }
