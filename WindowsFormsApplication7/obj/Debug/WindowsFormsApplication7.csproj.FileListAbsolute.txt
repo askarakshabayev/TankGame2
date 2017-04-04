@@ -10,3 +10,6 @@ c:\users\a.akshabaev\documents\visual studio 2013\Projects\WindowsFormsApplicati
 C:\Users\qalqa\Documents\Visual Studio 2015\Projects\TankHard\TankGame2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
 C:\Users\qalqa\Documents\Visual Studio 2015\Projects\TankHard\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
 C:\Users\qalqa\Documents\Visual Studio 2015\Projects\TankHard\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\TankGame2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Asus\Documents\Visual Studio 2015\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb

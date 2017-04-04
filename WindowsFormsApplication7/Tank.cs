@@ -10,8 +10,7 @@ namespace WindowsFormsApplication7
 {
     class Tank
     {
-        public int x, y, len, w, h, r;
-        Pen pen;
+        public int x = 80, y = 80, len = 140, w = 20, h = 100, r = 30;
         public enum Direction
         {
             UP,
@@ -23,24 +22,21 @@ namespace WindowsFormsApplication7
 
         public void Up(Graphics g)
         {
-
-            g.DrawRectangle(pen, x - len / 2, y - len / 2, len, len);
-            g.DrawEllipse(pen, x - r / 2, y - r / 2, r, r);
-            g.DrawRectangle(pen, x - w / 2, y - h, w, h);
+            g.DrawEllipse(new Pen(Color.Red), 10, 10, 100, 100);
         }
-
 
         public void Down(Graphics g)
         {
-
+            g.DrawEllipse(new Pen(Color.Black), x - r / 2, y - r / 2, r, r);
+            g.DrawRectangle(new Pen(Color.Black), x - len / 2, y - len / 2, len, len);
+            g.DrawRectangle(new Pen(Color.Black), x - w / 2, y, w, h);
         }
 
         public void Left(Graphics g)
         {
-            g.DrawRectangle(new Pen(Color.Red), x - len / 2, y - len / 2, len, len);
-            g.DrawEllipse(new Pen(Color.Red), x - r / 2, y - r / 2, r, r);
-            g.DrawRectangle(new Pen(Color.Red), x - h, y - w / 2, h, w);
+
         }
+
         public void Right(Graphics g)
         {
 
