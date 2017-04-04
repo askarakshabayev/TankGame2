@@ -7,3 +7,6 @@ c:\users\a.akshabaev\documents\visual studio 2013\Projects\WindowsFormsApplicati
 c:\users\a.akshabaev\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
 c:\users\a.akshabaev\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
 c:\users\a.akshabaev\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\user\TankGame2\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\user\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\user\TankGame2\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb

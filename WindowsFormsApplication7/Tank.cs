@@ -36,6 +36,9 @@ namespace WindowsFormsApplication7
 
         public void Right(Graphics g)
         {
+            g.DrawRectangle(new Pen(Color.Green), x - (len / 2), y - (len / 2), len, len);
+            g.DrawEllipse(new Pen(Color.GreenYellow), x - r, y - r, 2 * r, 2 * r);
+            g.DrawRectangle(new Pen(Color.Red), x, y - (w / 2), h, w);
 
         }
     }
